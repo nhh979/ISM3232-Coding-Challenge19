@@ -6,8 +6,7 @@ import './App.css'
 
 export default function App() {
   return (
-    <div className='App'>
-      <h1>Find Your Best Adventure</h1>
+    <div className='App'>      
       <Gallery/>
     </div>
   )

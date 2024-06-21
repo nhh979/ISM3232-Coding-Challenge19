@@ -46,6 +46,7 @@ export default function Gallery () {
     
     return (
         <div>
+            <h1 className='header'>Find Your Best Adventure</h1>
             {tours.map(tour => (
                 <article key={tour.id}>
                     <div>                        
